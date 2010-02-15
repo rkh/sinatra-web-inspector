@@ -1,6 +1,7 @@
 require "sinatra/base"
 require "sinatra/sugar"
 require "sinatra/compass"
+require "haml"
 require "monkey"
 
 module Sinatra
