@@ -1,7 +1,7 @@
 Sinatra::WebInspector
 =====================
 
-The WebInspector allowes you to inspect a running [Sinatra](http://sinatrarb.com) app.
+The WebInspector allows you to inspect a running [Sinatra](http://sinatrarb.com) app.
 Just browse http://localhost:4567/\_\_inspect\_\_
 
 When used with BigBand, it will – per default – only be activated in development mode.
