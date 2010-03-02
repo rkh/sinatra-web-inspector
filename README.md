@@ -12,6 +12,14 @@ BigBand
 Sinatra::WebInspector is part of the [BigBand](http://github.com/rkh/big_band) stack.
 Check it out if you are looking for other fancy Sinatra extensions.
 
+
+Installation
+------------
+
+_Note:_ CSS has not yet been imported from BigBand, so you won't really enjoy this.
+
+    gem install sinatra-web-inspector --prerelease
+
 Usage
 -----
 
